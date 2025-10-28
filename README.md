@@ -73,3 +73,41 @@ In this stage, the gathered requirements are analyzed to identify conflicts, dep
 5. Requirement Validation
 
 The final step is to verify that the documented requirements accurately reflect stakeholders’ needs and are feasible within technical and budgetary constraints. This step ensures that errors or misunderstandings are identified early. Validation techniques include reviews, walkthroughs, prototyping, and testing to confirm alignment with project goals.
+
+Types of Requirements
+
+In software development, requirements are broadly categorized into Functional Requirements and Non-functional Requirements. Both types are essential for defining what the system should do and how it should perform. Below is an explanation of each, with examples tailored to a Booking Management Project.
+
+1. Functional Requirements
+
+Definition:
+Functional requirements describe the specific behaviors, features, or functions that a system must perform. They define what the system should do to meet user and business needs.
+
+Examples for the Booking Management Project:
+
+Users should be able to search for available rooms based on location, check-in and check-out dates.
+
+The system should allow users to create and manage bookings (add, view, edit, and cancel reservations).
+
+The system should process online payments securely using multiple payment methods (credit card, PayPal, etc.).
+
+The system should send booking confirmation emails automatically after successful reservations.
+
+Admins should be able to add, update, or remove property listings from the platform.
+
+2. Non-functional Requirements
+
+Definition:
+Non-functional requirements specify how the system performs its functions rather than what it does. They define the quality attributes such as performance, security, usability, and reliability.
+
+Examples for the Booking Management Project:
+
+The system should load search results within 3 seconds under normal network conditions.
+
+The platform should be available 99.9% of the time to ensure continuous booking access.
+
+The application should encrypt all user data and payment information for security.
+
+The user interface should be responsive and mobile-friendly across devices.
+
+The system should handle up to 10,000 concurrent users without performance degradation.
