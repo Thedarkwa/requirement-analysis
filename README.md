@@ -49,3 +49,27 @@ Identifying and addressing requirements early in the SDLC helps detect potential
 3. Improves Quality and User Satisfaction
 
 A system that aligns with users’ actual needs and business goals is more likely to be accepted and valued. Requirement analysis ensures that the end product is functional, efficient, and user-friendly, resulting in higher satisfaction and better overall software quality.
+
+Key Activities in Requirement Analysis
+
+The process of Requirement Analysis involves several structured activities that ensure the accurate understanding, documentation, and validation of user and business needs. Each activity plays a critical role in shaping the final software product. The five key activities are outlined below:
+
+1. Requirement Gathering
+
+This is the initial step where all relevant information about the project is collected from stakeholders, clients, and end users. The goal is to understand what the system should do, the challenges users face, and the expected outcomes. Common techniques include interviews, questionnaires, workshops, and reviewing existing systems or documents.
+
+2. Requirement Elicitation
+
+Elicitation involves engaging stakeholders actively to draw out detailed, specific requirements. It goes beyond just collecting information — it focuses on uncovering hidden needs and clarifying ambiguous expectations. Methods such as brainstorming sessions, focus groups, and observation are often used to capture accurate and comprehensive requirements.
+
+3. Requirement Documentation
+
+After gathering and eliciting requirements, the information is organized and documented clearly in a structured format. This documentation may take the form of Software Requirement Specification (SRS) documents, use cases, or user stories. Proper documentation ensures that all stakeholders have a common reference point throughout the development lifecycle.
+
+4. Requirement Analysis and Modeling
+
+In this stage, the gathered requirements are analyzed to identify conflicts, dependencies, and feasibility. The analysis ensures that the requirements are clear, complete, and consistent. Modeling techniques such as data flow diagrams (DFDs), entity-relationship diagrams (ERDs), or UML diagrams are used to visually represent system behavior and relationships.
+
+5. Requirement Validation
+
+The final step is to verify that the documented requirements accurately reflect stakeholders’ needs and are feasible within technical and budgetary constraints. This step ensures that errors or misunderstandings are identified early. Validation techniques include reviews, walkthroughs, prototyping, and testing to confirm alignment with project goals.
